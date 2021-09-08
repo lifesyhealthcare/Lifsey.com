@@ -1,0 +1,2 @@
+# Lifsey.com
+We are Team of Goal Diggers. Each member of our Team is dedicated to providing the highest standard of care and Support to all the patients by recommending required solution according to symptoms of patient’s disease. We are recommending nearby hospitals according to patients location. We are also providing services related to doctor and pharmacy recommendation. We are providing all these services to patients so patient can easily get recover.
