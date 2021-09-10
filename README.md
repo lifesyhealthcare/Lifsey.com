@@ -1,12 +1,8 @@
-# Lifsey.com
-
-
-We are Team of Goal Diggers. Each member of our Team is dedicated to providing the highest standard of care and Support to all the patients by recommending required solution according to symptoms of patient’s disease. We are recommending nearby hospitals according to patients location. We are also providing services related to doctor and pharmacy recommendation. We are providing all these services to patients so patient can easily get recover.
-
-
 # Lifesy
 
-See live:- 
+See live:- https://lifesy.github.io/Lifesy.in/
+
+We are Team of Goal Diggers. Each member of our Team is dedicated to providing the highest standard of care and Support to all the patients by recommending required solution according to symptoms of patient’s disease. We are recommending prescription & nearby hospitals according to patients location. We are also providing services related to doctor and pharmacy recommendation. We are providing all these services to patients so patient can easily get recover.
 
 We are here to help you overcome diseases and improve your quality of life. We are on a mission to transform health care and more patients focused, research based treatment, guided by compassion. To fulfill our mission, we have built a Team which is.
 
@@ -15,21 +11,23 @@ We are here to help you overcome diseases and improve your quality of life. We a
 
 Media:-
 
-<a href="https://www.facebook.com/?sk=welcome">Facbook Page</a> |
-<a href="https://www.instagram.com/caring_here/">instagram</a> |
-<a href="https://lifesyheathcare.blogspot.com/">blogs</a> |
-<a href="https://www.linkedin.com/in/healthcare-recommendation-423783218/">Linkedin</a>
+Facbook Page - https://www.facebook.com/?sk=welcome
+
+instagram - https://www.instagram.com/caring_here/
+
+blogs - https://lifesyheathcare.blogspot.com/
+
 
 Our Team
 
-<a href="https://www.instagram.com/mounicagangavaram/">Mounica Gangavaram (Machine Learning Engineer)</a>
+-Mounica Gangavaram (Machine Learning Engineer)
 
-<a href="https://www.linkedin.com/in/gaurav-sharma-65190285">Gaurav Sharma (Data Science and Analytics)</a>
+-Gaurav Sharma (Data Science and Analytics)
 
-<a href="https://www.linkedin.com/in/meghashyam-parab-6898011a4/">meghashyam parab (Machine Learning Engineer)</a>
+-meghashyam parab (Machine Learning Engineer)
 
-<a href="https://www.instagram.com/ishika__gupta31/">Ishika Gupta (PR)</a>
+-Ishika Gupta (PR)
 
-<a href="https://www.linkedin.com/in/aman-shaikh-2b6a8b18b/">Aman Shaikh (Front End Developer)</a>
+-Aman Shaikh (Front End Developer)
 
-<a href="http://www.linkedin.com/in/vanita-arora-1a0940216">Vanita Arora (back end Developer)</a>
+-Vanita Arora (back end Developer)
